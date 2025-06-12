@@ -1,4 +1,4 @@
-# SITA use case — data science and data engineering technical test
+# SITA use case - data science and data engineering technical test
 
 This repository contains my technical assignment for the SITA for Aircraft data science team. The objective of this test was to assess both data science (data processing, feature engineering, modeling) and data engineering (packaging, API development, deployment) skills.
 
