@@ -2,33 +2,10 @@
 
 This repository contains my technical assignment for the SITA for Aircraft data science team. The objective of this test was to assess both data science (data processing, feature engineering, modeling) and data engineering (packaging, API development, deployment) skills.
 
-## Repository structure
 
-sita-usecase/
-|
-├── question_1/
-│ └── question_1.ipynb
-|
-├── question_2/
-│
-│ ├── question2_api/
-│ │ ├── app.py
-│ │ ├── Dockerfile
-│ │ └── requirements.txt
-│ │
-│ ├── question2_package/
-│ │ ├── dist/
-│ │ ├── question2/
-│ │ ├── question2.egg-info/
-│ │ ├── setup.py
-│ │ └── requirements.txt
-│ │
-│ └── question2_4.ipynb
+## Main technologies
 
-
-## Technologies
-
-- Python 3.7+
+- Python 3.9+
 - pandas 1.2.4+
 - scikit-learn
 - Flask
